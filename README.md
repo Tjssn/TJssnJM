@@ -54,7 +54,7 @@
 ### 安装包
 ```r
 # 从GitHub安装（示例）
-devtools::install_github("你的GitHub用户名/TjssnStat")
+devtools::install_github("Tjssn/TjssnStat")
 
 # 加载包
 library(TjssnStat)
